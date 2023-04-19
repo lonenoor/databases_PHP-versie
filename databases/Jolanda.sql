@@ -15,3 +15,4 @@ INSERT INTO `haarproduchten` (`id`, `producht`, `prijs`) VALUES
 (2, `Conditioner`, `20`),
 (3, `Zilvershampoo`, `12`); 
 
+-- test
