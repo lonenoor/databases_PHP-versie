@@ -4,7 +4,7 @@ CREATE DATABASE `jolanda`;
 
 USE `jolanda`;
 
-CREATE TABLE `haarproducten`( 
+CREATE TABLE `haarproducten` ( 
     `id` int AUTO_INCREMENT PRIMARY KEY,
     `product` text NOT NULL,
     `prijs` int NOT NULL
