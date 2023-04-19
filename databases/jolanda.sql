@@ -1,6 +1,6 @@
 DROP DATABASE IF EXISTS `jolanda`;
 
-CREATE DATABASE "jolanda"
+CREATE DATABASE `jolanda`
 
 USE `jolanda`;
 
