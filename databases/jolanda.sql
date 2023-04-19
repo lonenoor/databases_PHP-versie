@@ -10,7 +10,7 @@ CREATE TABLE `haarproducten`(
     `prijs` int NOT NULL
 ); 
 
-INSERT INTO `haarproduchten` (`id`, `product`, `prijs`) VALUES
+INSERT INTO `haarproducten` (`id`, `product`, `prijs`) VALUES
 (1, 'shampoo', `15`),
 (2, 'conditioner', `20`),
 (3, 'zilvershampoo', `12`); 
