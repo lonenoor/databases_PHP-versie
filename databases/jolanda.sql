@@ -1,12 +1,12 @@
 DROP DATABASE IF EXISTS `jolanda`;
 
-CREATE DATABASE `jolanda`
+CREATE DATABASE `jolanda`;
 
 USE `jolanda`;
 
 CREATE TABLE `Haarproducten`( 
-`id` int AUTO_INCREMENT PRIMARY KEY
-`product` text NOT NULL
+`id` int AUTO_INCREMENT PRIMARY KEY,
+`product` text NOT NULL,
 `prijs` int NOT NULL
 ); 
 
